@@ -67,6 +67,7 @@ function reiniciarJogo() {
 
 // teste
 console.log("oi");
+console.log("Ola");
 
 
 
